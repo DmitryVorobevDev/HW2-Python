@@ -14,3 +14,9 @@ for x in range (1, 1001):
             print (x, y)
             exit()
 print ('Петя неверно загадал числа')
+
+# Усложнение:
+#
+# import math
+# num = !ЗНАЧЕНИЕ int
+# sqrt = math.sqrt(num)
